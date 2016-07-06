@@ -25,3 +25,4 @@ As mathematician
 So I can enjoy the output of the calculator
 I want a pretty output
 ```
+added solution and rspec tests for turning methods into classes. Day 3 workshop
